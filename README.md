@@ -26,4 +26,3 @@ For compatibility reasons, the outputs of all the notebooks have been deleted be
   - _Valentina Bertei_ ([vbertei.vb@gmail.com](vbertei.vb@gmail.com))
   - _Alex Sgammato_ ([alexsgammato@gmail.com](alexsgammato@gmail.com))
   - _Francesco Tarchi_ ([francesco.tarchi01@gmail.com](francesco.tarchi01@gmail.com))
-  - _Alessandro Tumminelli_ ([aletummi2001@gmail.com](aletummi2001@gmail.com))
