@@ -21,3 +21,9 @@ For compatibility reasons, the outputs of all the notebooks have been deleted be
 
 ### Quantized-2 Model
 [Quantized-2 Model link to Colab](https://colab.research.google.com/drive/1_BgslFp72IRHXpXR2vOQGkMt-dbn3kOa?usp=drive_link)
+
+## Project Members
+  - _Valentina Bertei_ ([vbertei.vb@gmail.com](vbertei.vb@gmail.com))
+  - _Alex Sgammato_ ([alexsgammato@gmail.com](alexsgammato@gmail.com))
+  - _Francesco Tarchi_ ([francesco.tarchi01@gmail.com](francesco.tarchi01@gmail.com))
+  - _Alessandro Tumminelli_ ([aletummi2001@gmail.com](aletummi2001@gmail.com))
